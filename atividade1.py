@@ -1,4 +1,4 @@
-def main():
-  print( f"Olá professor" )
+def atividade_1():
+  print( "Olá professor" )
 
-main()
+atividade_1()
