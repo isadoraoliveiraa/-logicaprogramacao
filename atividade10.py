@@ -2,7 +2,7 @@ def exercicio1():
   numero_n = int(input())
   i = 0
   while numero_n > i:
-    if i % 5 == 0 and i % 3 != 0:
+    if i % 5 == 0 and i % 2 != 0:
       print(i)
     i += 1
     
